@@ -1,4 +1,4 @@
-Store contact information in browser's local storage
+# Store contact information in browser's local storage
 
 # Getting Started with Create React App
 
