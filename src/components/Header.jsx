@@ -3,8 +3,7 @@ function Header(){
   return(
     <div className="header">
         <div className="logo">
-        <span className="tedx">TED<sup>x</sup></span>
-        <span className="bitshyd">BITSHyderabad</span>
+        <span className="local">LocalStorage | Save contact info</span>
         </div>
     </div>
   )

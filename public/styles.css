@@ -18,6 +18,7 @@ html {
   background-color: black;
   height: 80px;
   display: flex;
+  align-items: center;
   width: 100%;
 }
 .logo{
@@ -26,18 +27,12 @@ html {
   margin-left: 5px;
   margin-top: 5px;
 }
-.tedx{
+.local{
   font-size: 25px;
   align-self: flex-start;
   color: red;  
-  text-shadow: 1px 0 red;
   letter-spacing:1px;
   font-weight:bold;
-}
-.bitshyd{
-  align-self: flex-start;
-  color: white;
-  font-weight: bold;
 }
 .indep{
   color: white;
